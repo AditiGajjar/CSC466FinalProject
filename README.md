@@ -1,6 +1,7 @@
 # CSC466FinalProject
 Aditi Gajjar, Anagha Sikha, Othilia Norell, Soren Paetau, Nicholas Tan \\ agajjar@calpoly.edu / arsikha@calpoly.edu \ onorell@calpoly.edu  / spaetau@calpoly.edu / nktan@calpoly.edu
 ​
+
 ***HOW TO RUN CODE***
 Q1: 
 Q2 (Apriori Rules): All code is contained within a jupyter notebook
