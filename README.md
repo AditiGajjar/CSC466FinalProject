@@ -22,4 +22,7 @@ To run code on different subsets of attributes (all, without best attributes, an
 - From hypertuning results of the random forests classification are found in spotify_songs_new_rf.txt for 4 attributes
 
 ### Q5 (Collaborative Filtering): 
+-Reference readme in CollabFiltering
+-use -sp with testcases given
+
 
