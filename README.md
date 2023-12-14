@@ -4,7 +4,9 @@ Aditi Gajjar, Anagha Sikha, Othilia Norell, Soren Paetau, Nicholas Tan \\ agajja
 
 ## HOW TO RUN CODE
 
-### Q1: 
+### Q1: (Random Forest on Feature Importance)
+- run python3 randomForest.py <numAttributes> <numDatapoints> <numTrees>
+To run code on different subsets of attributes (all, without best attributes, and without worst attributes) by updating line 34 in randomForest.py – instructions in randomForest.py
 
 ### Q2 (Apriori Rules): All code is contained within a jupyter notebook
 
